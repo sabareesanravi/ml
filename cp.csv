@@ -1,0 +1,9 @@
+state,district,season,avg,crop
+tn,nkl,wn,100,rice
+tn,cbe,wn,135,rice
+tn,nkl,wn,34,wheat
+tn,cbe,wn,23,wheat
+tn,cbe,sm,100,wheat
+tn,nkl,sm,223,wheat
+tn,nkl,sm,11,rice
+tn,cbe,sm,231,rice
